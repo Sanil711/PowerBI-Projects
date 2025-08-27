@@ -1,5 +1,7 @@
 An analytical dashboard created for the "Data Professional Survey" dataset that I acquired from AlexTheAnalyst's PowerBI github repository (https://github.com/AlexTheAnalyst/Power-BI.git). I've also included this data into the "data/" folder of this project folder.
+
 Screenshots displaying the below visualizations are in the "screenshots/" folder.
+
 This dashboard includes visualizations like:
 - Treemap of survey takers Countries acting more like toggelable buttons
 -  Stacked Bar Chart of Average Salary by Job Roles
@@ -7,3 +9,4 @@ This dashboard includes visualizations like:
 -  Donut Chart of difficulty range that voters felt when getting a Data Role
 -  Gauges for Happiness with Current job regarding Work/Life Balance and Salary
 -  Cards depicting the Total Number and Average age of voters
+
