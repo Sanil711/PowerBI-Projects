@@ -10,3 +10,6 @@ This dashboard includes visualizations like:
 -  Gauges for Happiness with Current job regarding Work/Life Balance and Salary
 -  Cards depicting the Total Number and Average age of voters
 
+
+## Data Professional Survey Analysis - Dashboard 
+<img width="1268" height="708" alt="image" src="https://github.com/user-attachments/assets/f004d3c2-ea33-446d-ab3b-5d70447aee48" />
