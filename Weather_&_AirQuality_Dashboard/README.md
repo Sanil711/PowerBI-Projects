@@ -1,4 +1,5 @@
-A Weather forecast and Air Quality Index dashboard which fetches live data from "Free Weather API" (https://www.weatherapi.com/). Tutorial present on TheDeveloperBI's Youtube channel (https://www.youtube.com/@The-Developer-BI). 
+A Weather forecast and Air Quality Index dashboard which fetches live data from "Free Weather API" (https://www.weatherapi.com/). 
+Tutorial present on TheDeveloperBI's Youtube channel (https://www.youtube.com/@The-Developer-BI). 
 
 ## Weather & Air Quality - Dashboard 
 ![Dashboard Demo](screenshots/dashboard_vid.gif) 
